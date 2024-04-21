@@ -1,6 +1,6 @@
 # Docker Compose Tutorial
 
-This repository contains a simple Docker Compose setup to help you understand the basics of containerization with Docker Compose.
+This repository contains a simple Docker Compose setup to help me understand the basics of containerisation with Docker Compose.
 
 ## Services
 
